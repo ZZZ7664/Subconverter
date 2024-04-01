@@ -22,7 +22,7 @@
 |Godetia 的订阅转换	|https://sub.ssltd.xyz/	|Godetia 机场官方订阅链接转换网站。|  
 |ImmTelecom 订阅转换	|https://immconvert.com/	|Imm 官方运营的订阅转换网站。  |
 |V2tun 订阅转换|	https://v2tun.vercel.app/	|YToo 官方运营的订阅转换网站。|  
-|Sublink	|https://sublink.dev/	|YToo 机场官方推荐的订阅转换网站。||  
+|Sublink	|https://sublink.dev/	|YToo 机场官方推荐的订阅转换网站。| 
 |つつの订阅转换 · 鲸歌	|https://sub.tsutsu.one/	|TAG 机场合作的订阅转换网站。|  
 |SoCloud 的订阅转换	|https://subcsub.com/|SoCloud |机场官方在线订阅链接转换网站。|  
 |忍者云机场订阅转换	|https://renzhesubconverter.com/ |RenzheCloud 忍者云官方的订阅转换。|  
