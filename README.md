@@ -1,4 +1,4 @@
-***该内容收自[Clash等软件订阅链接转换网站收集与推荐](https://blog.qixing1217.top/article/d787ba5a-1e14-45d7-93f3-7f92084d9eb8"Clash等软件订阅链接转换网站收集与推荐")***
+***该内容收自[Clash等软件订阅链接转换网站收集与推荐](https://blog.qixing1217.top/article/d787ba5a-1e14-45d7-93f3-7f92084d9eb8"Clash等软件订阅链接转换网站收集与推荐")用于个人备份***
 
 # 主要内容
 其实重点是订阅转换的后端API，前端只是便于生成链接而已  
